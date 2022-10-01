@@ -1,0 +1,11 @@
+package com.app.mathquizapp.model
+
+enum class Category{
+    NUMBER_AND_PLACE_VALUE,
+    ADDITION_AND_SUBTRACTION,
+    MULTIPLICATION_AND_DIVISION,
+    FRACTIONS,
+    MEASUREMENT,
+    PROPERTIES_OF_SHAPES,
+    POSITION_AND_DIRECTION
+}

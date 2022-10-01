@@ -1,0 +1,4 @@
+<resources>
+    <!-- store app name for UI -->
+    <string name="app_name">Math Quiz App</string>
+</resources>
